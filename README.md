@@ -1,3 +1,5 @@
+בס"ד
+
 # Hi, I'm Netanel 👋
 
 **Software Engineering Student | Full Stack Developer (React · Node.js · C#)**
