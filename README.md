@@ -1,49 +1,53 @@
-# 🛒 Online Store
+# Hi, I'm Netanel 👋
 
-A responsive front-end web application simulating an online shopping experience.  
-Built as part of my first-year practical studies in Software Engineering.
+**Software Engineering Student | Full Stack Developer (React · Node.js · C#)**
 
-## 🚀 Live Demo
-
-🔗 [Online Store Website](https://netanel1010.github.io/online-store/)
-
-## 📌 Overview
-
-This project demonstrates core front-end development skills using:
-
-- **HTML5** – Semantic structure and accessibility  
-- **CSS3** – Responsive design with Flexbox & Grid  
-- **JavaScript (Vanilla)** – Interactive UI and dynamic content  
-
-Although currently front-end only, the application is structured with future scalability in mind, including plans for integrating back-end technologies like **Node.js** and **MongoDB**.
-
-## 💡 Features
-
-- Responsive layout across devices  
-- Product listing page  
-- Category navigation  
-- Dynamic UI interactions  
-- Clean and modular code structure
-
-## 🧠 Future Enhancements
-
-- Full-stack integration (Node.js, MongoDB)  
-- Shopping cart functionality  
-- User authentication  
-- Admin dashboard  
-- Product management system
-
-## 📁 Technologies
-
-| Purpose             | Technology         |
-|---------------------|--------------------|
-| Structure           | HTML5              |
-| Styling             | CSS3 (Flexbox/Grid)|
-| Logic & Interaction | JavaScript (ES6)   |
-
-## 👨‍💻 About the Developer
-
-I'm a Software Engineering student currently building a solid foundation in web development.  
-This project reflects my passion for creating user-friendly, responsive interfaces, and my commitment to continuous learning and improvement.
+I build real-world projects while studying Software Engineering, focusing on turning what I learn into working applications.
 
 ---
+
+## ⚡ Core Focus
+
+Full Stack Development with:
+React · Node.js · Express · MongoDB
+C# · OOP · SQL
+
+---
+
+## 🧠 What I Do
+
+* Build full-stack web applications (MERN stack)
+* Develop OOP systems in C# (inheritance, polymorphism, interfaces)
+* Turn coursework into real working projects
+* Focus on understanding systems, not just syntax
+
+---
+
+## 📂 Featured Projects
+
+**🛒 NMS Store**
+E-commerce web app with cart, favorites, and dynamic product pages (JS → React migration)
+
+**🤖 MERN AI Chat App**
+Full-stack chat application using React, Node.js, Express, and MongoDB
+
+**🏦 Bank Management System (C#)**
+OOP project demonstrating inheritance, abstraction, and polymorphism
+
+**🚚 Vehicle Management System (C#)**
+Hierarchical OOP system with virtual methods and method overloading
+
+---
+
+## 🛠️ Tech Stack
+
+Frontend: React · JavaScript · HTML · CSS · Vite
+Backend: Node.js · Express · MongoDB · Mongoose
+Languages: JavaScript · C# · SQL
+Tools: Git · GitHub · VS Code · Visual Studio
+
+---
+
+## 🎯 Goal
+
+To grow into a strong Full Stack Developer by building real systems, not just exercises — and improving with every project I ship.
