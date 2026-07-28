@@ -2,17 +2,22 @@
 
 # Hi, I'm Netanel 👋
 
-**Software Engineering Student | Full Stack Developer (React · Node.js · C#)**
+**Software Engineering Student | Full Stack Developer & Data Analyst**
 
-I build real-world projects while studying Software Engineering, focusing on turning what I learn into working applications.
+I build real-world applications and data-driven projects while studying Software Engineering, focusing on creating complete systems from frontend and backend development to data analysis and machine learning.
 
 ---
 
 ## ⚡ Core Focus
 
-Full Stack Development with:
-React · Node.js · Express · MongoDB
+**Full Stack Development**
+React · JavaScript · Node.js · Express · MongoDB
+
+**Programming & Software Design**
 C# · OOP · SQL
+
+**Data Analysis & Data Science**
+Python · Pandas · NumPy · Scikit-learn · Tableau
 
 ---
 
@@ -27,17 +32,20 @@ C# · OOP · SQL
 
 ## 📂 Featured Projects
 
-**🛒 NMS Store**
-E-commerce web app with cart, favorites, and dynamic product pages (JS → React migration)
+🏀 **NBA Games Analysis**  
+Data Science project analyzing NBA game data (1999–2015) using Python, Pandas, Scikit-learn, statistical analysis, visualization, K-Means clustering, and linear regression for revenue prediction.
 
-**🤖 MERN AI Chat App**
-Full-stack chat application using React, Node.js, Express, and MongoDB
+🛒 **NMS Store**  
+E-commerce web application with cart, favorites, authentication, and dynamic product pages.
 
-**🏦 Bank Management System (C#)**
-OOP project demonstrating inheritance, abstraction, and polymorphism
+🤖 **MERN AI Chat App**  
+Full-stack chat application using React, Node.js, Express, and MongoDB.
 
-**🚚 Vehicle Management System (C#)**
-Hierarchical OOP system with virtual methods and method overloading
+🏦 **Bank Management System (C#)**  
+OOP project demonstrating inheritance, abstraction, interfaces, and polymorphism.
+
+🚚 **Vehicle Management System (C#)**  
+Hierarchical OOP system using inheritance, virtual methods, overriding, and overloading.
 
 ---
 
@@ -47,9 +55,9 @@ Hierarchical OOP system with virtual methods and method overloading
 * Backend: Node.js · Express · MongoDB · Mongoose
 * Languages: JavaScript · C# · SQL
 * Tools: Git · GitHub · VS Code · Visual Studio
-
+  
 ---
 
 ## 🎯 Goal
 
-To grow into a strong Full Stack Developer by building real systems, not just exercises — and improving with every project I ship.
+To grow as a Full Stack Developer by building real systems, learning new technologies, and improving through practical projects.
