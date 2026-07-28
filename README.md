@@ -43,10 +43,10 @@ Hierarchical OOP system with virtual methods and method overloading
 
 ## 🛠️ Tech Stack
 
-Frontend: React · JavaScript · HTML · CSS · Vite
-Backend: Node.js · Express · MongoDB · Mongoose
-Languages: JavaScript · C# · SQL
-Tools: Git · GitHub · VS Code · Visual Studio
+* Frontend: React · JavaScript · HTML · CSS · Vite
+* Backend: Node.js · Express · MongoDB · Mongoose
+* Languages: JavaScript · C# · SQL
+* Tools: Git · GitHub · VS Code · Visual Studio
 
 ---
 
