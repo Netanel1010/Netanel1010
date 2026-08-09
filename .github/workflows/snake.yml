@@ -8,20 +8,17 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     permissions:
       contents: write
 
     steps:
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: dahan8473/snake-and-commits@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user: ${{ github.repository_owner }}
+          theme: matrix           # אפשר גם: green, blue, amber
+          frame: true
+          counter: true
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
