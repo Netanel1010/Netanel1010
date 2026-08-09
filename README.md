@@ -64,7 +64,7 @@ To grow as a Full Stack Developer by building real systems, learning new technol
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Netanel1010/Netanel1010/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Netanel1010/Netanel1010/output/snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Netanel1010/Netanel1010/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Netanel1010/Netanel1010/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Netanel1010/Netanel1010/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Netanel1010/Netanel1010/output/github-snake.svg" />
 </picture>
