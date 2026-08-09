@@ -19,6 +19,7 @@ jobs:
           theme: matrix           # אפשר גם: green, blue, amber
           frame: true
           counter: true
+          start_direction: top-right
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
