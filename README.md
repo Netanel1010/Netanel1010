@@ -17,7 +17,7 @@ React · JavaScript · Node.js · Express · MongoDB
 C# · OOP · SQL
 
 **Data Analysis & Data Science**
-Python · Pandas · NumPy · Scikit-learn · Tableau
+Python · Pandas · NumPy · Scikit-learn · Jupyter Notebook · Tableau
 
 ---
 
@@ -53,6 +53,7 @@ Hierarchical OOP system using inheritance, virtual methods, overriding, and over
 
 * Frontend: React · JavaScript · HTML · CSS · Vite
 * Backend: Node.js · Express · MongoDB · Mongoose
+* Data Analysis: Pandas · NumPy · Scikit-learn · Jupyter Notebook · Tableau
 * Languages: JavaScript · C# · SQL
 * Tools: Git · GitHub · VS Code · Visual Studio
   
