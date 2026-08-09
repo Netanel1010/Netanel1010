@@ -18,7 +18,7 @@ jobs:
           github_user: ${{ github.repository_owner }}
           theme: amber           # אפשר גם: green, blue, amber,matrix
           frame: true
-          counter: false
+          counter: true
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
