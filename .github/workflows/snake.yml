@@ -16,7 +16,7 @@ jobs:
         uses: dahan8473/snake-and-commits@v1
         with:
           github_user: ${{ github.repository_owner }}
-          theme: matrix           # אפשר גם: green, blue, amber
+          theme: amber           # אפשר גם: green, blue, amber
           frame: true
           counter: true
           start_direction: top-right
