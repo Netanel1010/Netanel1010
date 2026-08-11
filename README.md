@@ -35,7 +35,7 @@ Python · Pandas · NumPy · Scikit-learn · Jupyter Notebook · Tableau
 🏀 **NBA Games Analysis**  
 Data Science project analyzing NBA game data (1999–2015) using Python, Pandas, Scikit-learn, statistical analysis, visualization, K-Means clustering, and linear regression for revenue prediction.
 
-🛒 **NMS Store**  
+🛒 **Online Store**  
 E-commerce web application with cart, favorites, authentication, and dynamic product pages.
 
 🤖 **MERN AI Chat App**  
