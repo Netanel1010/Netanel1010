@@ -62,19 +62,23 @@ Hierarchical OOP system using inheritance, virtual methods, overriding, and over
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge)
 
+
+<p><img src="https://github-stats-extended.vercel.app/api/top-langs?username=Netanel1010&show_icons=true&locale=en&layout=compact" alt="Netanel1010" /></p>
+
+
+
 ---
 
 ## 🎯 Goal
 
 To grow as a Full Stack Developer by building real systems, learning new technologies, and improving through practical projects.
 
+<a href="https://git.io/streak-stats"><img align="left" src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
+<p>&nbsp;<img align="right" src="https://github-stats-extended.vercel.app/api?username=Netanel1010&show_icons=true&locale=en" alt="Netanel1010" /></p>
 
-<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=Netanel1010&show_icons=true&locale=en&layout=compact" alt="Netanel1010" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=Netanel1010&show_icons=true&locale=en" alt="Netanel1010" /></p>
-
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<br clear="all" />
+<br />
 
 
 <picture>
