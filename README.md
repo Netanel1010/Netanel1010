@@ -74,7 +74,7 @@ To grow as a Full Stack Developer by building real systems, learning new technol
 
 <p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=Netanel1010&show_icons=true&locale=en" alt="Netanel1010" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=Netanel1010" alt="Netanel1010" /></p>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 
 <picture>
