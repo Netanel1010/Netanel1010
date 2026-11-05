@@ -68,6 +68,15 @@ Hierarchical OOP system using inheritance, virtual methods, overriding, and over
 
 To grow as a Full Stack Developer by building real systems, learning new technologies, and improving through practical projects.
 
+
+
+<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=Netanel1010&show_icons=true&locale=en&layout=compact" alt="Netanel1010" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=Netanel1010&show_icons=true&locale=en" alt="Netanel1010" /></p>
+
+<p><img align="center" src="https://streak-stats.demolab.com/?user=Netanel1010" alt="Netanel1010" /></p>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Netanel1010/Netanel1010/output/snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Netanel1010/Netanel1010/output/snake.svg" />
