@@ -74,8 +74,10 @@ Hierarchical OOP system using inheritance, virtual methods, overriding, and over
 To grow as a Full Stack Developer by building real systems, learning new technologies, and improving through practical projects.
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img width="400" src="./profile/streak.svg" alt="GitHub Streak" /></a>
-  <img width="400" src="https://github-stats-extended.vercel.app/api?username=Netanel1010&show_icons=true&locale=en" alt="Netanel1010" />
+  <a href="https://git.io/streak-stats">
+    <img src="./profile/streak.svg" width="48%" alt="GitHub Streak" />
+  </a>
+  <img src="https://github-stats-extended.vercel.app/api?username=Netanel1010&show_icons=true&locale=en" width="48%" alt="GitHub Stats" />
 </p>
 
 <br />
